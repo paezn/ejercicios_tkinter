@@ -75,7 +75,7 @@ subtitulo2.config(bg="ivory2", fg="blue", font=("Arial", 15), anchor=CENTER)
 subtitulo2.place(x=390, y=70)
 
 # imagen - logo de la app
-logo = PhotoImage(file="img/btn-suma.png")
+logo = PhotoImage(file="gui_01/img/btn-suma.png")
 etiq_logo = Label(frame_entrada, image=logo)
 etiq_logo.place(x=10,y=10)
 
